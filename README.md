@@ -18,7 +18,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-jagtap-34a9ab25b)
 &nbsp;
-[![Resume](https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1KjXin4ogJ-fcWOR6hSSpp58NDylY4jzx/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DwS0wgdVlT3KtaGHjJR3G1ApaqICcfGn/view)
 
 </div>
 
@@ -134,7 +134,7 @@ var developer = new Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-jagtap-34a9ab25b)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jagtapprashant1919@gmail.com)
-[![Resume](https://img.shields.io/badge/My_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1KjXin4ogJ-fcWOR6hSSpp58NDylY4jzx/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/My_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DwS0wgdVlT3KtaGHjJR3G1ApaqICcfGn/view)
 
 </div>
 
